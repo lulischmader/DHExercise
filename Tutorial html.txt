@@ -1,0 +1,11 @@
+<!doctype html>
+<html dir="ltr" lang="en-US">
+
+<head>
+    <title><!-- Comunidad Kichwa en Nueva York --></title>
+</head>
+
+<body>
+    <!-- Para explicar el concepto de movilidad y su efecto en la comunidad lingüística, baso mi análisis en los términos de Blommaert en lo relacionado con los "órdenes de indexicalidad" y el "policentrismo". El primer término describe cómo la creación de categorías en la sociedad genera percepciones predeterminadas, dando lugar a situaciones de desigualdad en un mundo globalizado. El segundo término explica cómo los individuos navegan por espacios regidos por "normas y restricciones" en la comunicación, y a veces se atienen a estas reglas o crean nuevos patrones lingüísticos.-->
+</body>
+</html>
