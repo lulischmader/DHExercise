@@ -7,7 +7,7 @@ This was a **great** exercise!
 ## Links to the exercises done today 
 
 - [Link to my GitHub Repository for today](lulischmader/DHExercise) and [GitHub Pages](https://lulischmader.github.io/DHExercise)
-- [Link to my HTML and CSS files](DHPracticum/exercise2.html)
+- [Link to my HTML and CSS files](file:///C:/Users/Luli/Documents/DHPracticum/exercise2.html)
 - [Link to Pandoc transformations](file:///C:/Users/Luli/Documents/DHPracticum/pandoc_transformations.zip/5.exercise3.html)
 - [Link to my Bibliography](file:///C:/Users/Luli/Documents/DHPracticum/biblipgraphy.html)
 
