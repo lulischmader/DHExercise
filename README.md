@@ -1,2 +1,2 @@
 # DHExercise
-Exercise in class on Thursday March 2nd, 2023
+## In Class Exercise: Thursday March 2nd, 2023
