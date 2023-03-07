@@ -9,7 +9,7 @@ This was a **great** exercise!
 - [Link to my GitHub Repository for today](https://github.com/lulischmader/DHExercise) and [GitHub Pages](https://lulischmader.github.io/DHExercise/)
 - [Link to my HTML and CSS files](https://github.com/lulischmader/DHExercise/blob/gh-pages/exercise2.html)
 - [Link to Pandoc transformations](https://github.com/lulischmader/DHExercise/blob/gh-pages/pandoc_transformations.zip.zip)
-- [Link to my Bibliography](https://github.com/lulischmader/DHExercise/blob/gh-pages/biblipgraphy.html()
+- [Link to my Bibliography](https://github.com/lulischmader/DHExercise/blob/gh-pages/biblipgraphy.html)
 
 ## Comments or notes about problems 
 
